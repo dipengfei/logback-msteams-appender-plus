@@ -43,6 +43,9 @@ Just configure a new appener into logback configuration
 
 ```
 
+# Demo
+![Image of Demo](./demo.jpg)
+
 # Acknowledgements
 Thanks @michl-b and @mmaeller, some ideas were coming from your codebase. 
 
