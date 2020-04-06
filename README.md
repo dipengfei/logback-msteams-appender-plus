@@ -19,7 +19,7 @@ Just configure a new appener into logback configuration
     <!-- Custom read timeout, default 10 seconds, TimeUint: millisecond -->
     <readTimeout>3000</readTimeout>
     <!-- Custom write timeout, default 10 seconds, TimeUint: millisecond -->
-    <readTimeout>3000</readTimeout>
+    <writeTimeout>3000</writeTimeout>
     <!-- a prefix will be ahead of entire title, which can identify the app or env information -->
     <titlePrefix>Staging</titlePrefix>
         
