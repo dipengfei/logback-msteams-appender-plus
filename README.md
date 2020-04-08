@@ -53,3 +53,6 @@ Thanks @michl-b and @mmaeller, some ideas were coming from your codebase.
 # Reference
 [Sending messages to connectors and webhooks](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using)
 
+# 中文介绍
+[简单实现微软Teams的logback appender](https://danielpf.me/2020/04/08/logback-msteams-appender-plus/)
+
